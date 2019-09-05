@@ -1,0 +1,4 @@
+---
+- key: RWSZaRmt1LEQT9CtPygf9CvONu8kYPTlVEJdysNoUR62/NkeWgdkc3zY
+  id: openbsd 6.5 base public key
+  src: https://ftp.openbsd.org/pub/OpenBSD/6.5/openbsd-65-base.pub

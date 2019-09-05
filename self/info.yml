@@ -1,0 +1,11 @@
+---
+organization:
+  name: HXR
+  home: https://hxr.io/
+  members:
+    - link: acct:code@hxr.io
+      pgp-fingerprint: CA3275D4E5BAD5F172D680757C98F3C79CCA7823
+  alumni:
+    - link: acct:dev@hxr.io
+      pgp-fingerprint: 962D475D3D2DCBE2D978C0BB7E9CC95FC048EC0C
+      active: 2019-09-05T01:11:29-04:00/2019-09-05T01:11:31-04:00

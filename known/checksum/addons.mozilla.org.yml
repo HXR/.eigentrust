@@ -1,0 +1,4 @@
+---
+- name: passff-1.9-fx.xpi
+  type: sha256
+  checksum: fffb0b6d107cbb875f66417220044dbc4b1c43dfd3dbf5e5964ac8368f61eb7a

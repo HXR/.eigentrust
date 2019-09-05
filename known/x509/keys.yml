@@ -1,0 +1,7 @@
+---
+- key: 6EF70B832FA021A18E4BA948B8F646BEDDAC321E73A34D4C1E7835559E65396B
+  id: www.python.org
+  src: https://pypi.org
+- key: 3BE1FA98FA68FDC38D3F75570947AE631E58C1B99A0B5EAC800089FE78D7D661
+  id: addons.mozilla.org
+  src: https://addons.mozilla.org

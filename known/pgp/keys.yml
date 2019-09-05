@@ -1,0 +1,13 @@
+---
+- key: 9DC858229FC7DD38854AE2D88D81803C0EBFCD88
+  id: Docker Release (CE deb) <docker@docker.com>
+  src: https://download.docker.com/linux/ubuntu/gpg
+- key: 1A4C919DB987D435939638B914219A96E15E78F4
+  id: GitLab B.V. (package repository signing key) <packages@gitlab.com>
+  src: https://packages.gitlab.com/gitlab/gitlab-ee/gpgkey
+- key: 91A6E7F85D05C65630BEF18951852D87348FFC4C
+  id: HashiCorp Security <security@hashicorp.com>
+  src: https://www.hashicorp.com/security
+- key: A2CFB51FA275A7286234E7B24D17C995CD9775F2
+  id: Let's Encrypt Client Team <letsencrypt-client@eff.org>
+  src: https://certbot.eff.org/docs/install.html
